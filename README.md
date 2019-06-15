@@ -1,3 +1,15 @@
+## Slide 1
+
+![alt text](https://github.com/Guidogl/architecture-carousel/blob/master/pictures/slide_1.PNG)
+
+## Slide 2
+
+![alt text](https://github.com/Guidogl/architecture-carousel/blob/master/pictures/slide_2.PNG)
+
+## Slide 3
+
+![alt text](https://github.com/Guidogl/architecture-carousel/blob/master/pictures/slide_3.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
